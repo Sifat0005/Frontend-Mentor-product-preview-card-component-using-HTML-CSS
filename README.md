@@ -15,5 +15,6 @@ Styling with CSS variables for better maintainability.
 
 Author
 Frontend Mentor - @Sifat0005
+
 GitHub -Sifat0005
 
