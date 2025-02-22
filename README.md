@@ -1,5 +1,6 @@
 Screenshot URL:[https://github.com/Sifat0005/Frontend-Mentor-product-preview-card-component-using-HTML-CSS/blob/0bcf948450d3a79e56c5fcf2682fb64d430cec5f/Screenshot_1.png]
-Links
+
+
 Live Site URL: http://127.0.0.1:5500/product-preview-card-component-main/index.html
 
 Built with
